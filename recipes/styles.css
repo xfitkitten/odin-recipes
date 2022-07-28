@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    font-family: cursive;
+    font-size: x-large;
+}
+
+.list.bullet  {
+    text-align: justify left; 
+    text-indent: 40%;
+    list-style: inside;
+}
+
+.list.num {
+    text-align: justify left; 
+    text-indent: 35%;
+    list-style: inside;
+}
+
+.list.num.nuts {
+    text-align: justify left; 
+    text-indent: 25%;
+    list-style: inside;
+}
+
+.list.num.oat {
+    text-align: justify left; 
+    text-indent: 15%;
+    list-style: inside;
+}
